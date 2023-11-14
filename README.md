@@ -2,6 +2,8 @@
 This is the repository for contents from the **Strengthening National Pathogen Genomic Surveillance and Preparedness for the Next Pandemic** symposium hosted on November 13-14, 2023.
 Recorded videos are hosted on Echo360.
 
+![CGENet_symposium_poster](https://github.com/cmb-chula/CGENet-symposium-2023/assets/28724681/61480324-c41e-42d5-ade3-f99a6fbd2aea)
+
 ## What can you find here?
 1. Compiled list of URLs for recorded videos (See below)
 2. Data and slides for the workshop sessions
